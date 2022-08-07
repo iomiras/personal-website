@@ -28,7 +28,7 @@ function App() {
               <a href='https://geoguess-e-r.vercel.app/'>
                 <div className='w-96 h-128 bg-slate-200 p-10 rounded-xl hover:scale-105'>
                   <img src={Geo}></img>
-                  <h1 className='text-xxl font-normal text-slate-900 text-center'>Geogusser</h1>
+                  <h1 className='text-xxl font-normal text-slate-900 text-center'>Geoguesser</h1>
                   <p className='text-m text-slate-900 text-center m-3'>You have to guess the capital city by its description and mark it on the map</p>
                 </div>
               </a>
