@@ -22,14 +22,14 @@ function App() {
                 <div className='w-30 h-70 md:w-96 md:h-128  bg-slate-200 mr-2 p-3 pt-5 md:p-10 rounded-xl hover:scale-105'>
                   <img src={Beker}></img>
                   <h1 className='text-base md:text-xxl font-normal text-slate-900 text-center'>Beker</h1>
-                  <p className='text-sm md:text-m text-slate-900 text-center m-3'>This is a project that tests if people track government procurement</p>
+                  <p className='text-sm md:text-lg text-slate-900 text-center m-3'>This is a project that tests if people track government procurement</p>
                 </div>
               </a>
               <a href='https://geoguess-e-r.vercel.app/'>
                 <div className='w-30 h-70 md:w-96 md:h-128 bg-slate-200 ml-2 p-3 pt-5 md:p-10 rounded-xl hover:scale-105'>
                   <img src={Geo}></img>
                   <h1 className='text-base md:text-xxl font-normal text-slate-900 text-center'>Geoguesser</h1>
-                  <p className='text-sm md:text-m text-slate-900 text-center m-3'>You have to guess the capital city by its description and mark it on the map</p>
+                  <p className='text-sm md:text-lg text-slate-900 text-center m-3'>You have to guess the capital city by its description and mark it on the map</p>
                 </div>
               </a>
             </div>
